@@ -1,0 +1,12 @@
+project174a_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g8626826ce6194b_project174a_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project174a_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g8626826ce6194b_project174a_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project174a_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g8626826ce6194b_project174a_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project174a_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g8626826ce6194b_project174a_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+project174a_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g8626826ce6194b_project174a_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
